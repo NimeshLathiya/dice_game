@@ -1,3 +1,5 @@
+![Screenshot (36)](https://github.com/NimeshLathiya/dice_game/assets/142136394/f1432b66-3758-4108-8f75-5e87dc90c632)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
