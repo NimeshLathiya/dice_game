@@ -7,7 +7,7 @@ const Footer = () => {
       <hr style={{ width: "90%", marginTop: 20 }} />
       <span className="name">
         Made by{" "}
-        <a href="" target="__blank">
+        <a href="https://github.com/NimeshLathiya/dice_game.git" target="__blank">
           Nimesh Lathiya
         </a>
       </span>
