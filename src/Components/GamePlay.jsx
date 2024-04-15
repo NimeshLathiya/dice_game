@@ -34,7 +34,7 @@ const GamePlay = () => {
       setScore((prev) => prev - 2);
     }
 
-    setSelectedNumber(undefined);
+    setSelectedNumber();
   };
 
   const resetScore = () => {
