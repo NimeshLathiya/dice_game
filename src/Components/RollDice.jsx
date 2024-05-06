@@ -16,7 +16,7 @@ const RollDice = ({ currentDice, rollDice }) => {
   );
 };
 
-export default ;
+export default RollDice;
 
 const DieceContainer = styled.div`
   margin-top: 30px;
