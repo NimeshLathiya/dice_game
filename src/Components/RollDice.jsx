@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 
-const RollDice = ({ , rollDice }) => {
+const RollDice = ({currentDice , rollDice }) => {
   return (
     <DieceContainer>
       <div className="dice" onClick={rollDice}>
