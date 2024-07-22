@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const NumberSelector = ({
-  setError,
+  ,
   setSelectedNumber,
   selectedNumber,
   error,
