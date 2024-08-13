@@ -4,7 +4,7 @@ import TotalScore from "./TotalScore";
 import NumberSelector from "./NumberSelector";
 import RollDice from "./RollDice";
 import { Button, OutlineButton } from "../style/Button";
-import Rules from "./";
+import Rules from "./Rules";
 import Footer from "./Footer";
 
 const GamePlay = () => {
