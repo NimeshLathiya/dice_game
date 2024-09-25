@@ -8,7 +8,7 @@ import Rules from "./Rules";
 import Footer from "./Footer";
 
 const GamePlay = () => {
-  const [selectedNumber, setSelectedNumber] = useState();
+  const [selectedNumber, ] = useState();
   const [currentDice, setCurrentDice] = useState(1);
   const [score, setScore] = useState(0);
   const [error, setError] = useState("");
