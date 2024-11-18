@@ -12,7 +12,7 @@ const TotalScore = ({ score }) => {
   );
 };
 
-export default TotalScore;
+export default ;
 
 const ScoreContainer = styled.div`
   max-width: 300px;
