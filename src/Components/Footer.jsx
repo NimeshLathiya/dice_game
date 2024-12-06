@@ -8,7 +8,7 @@ const Footer = () => {
       <span className="name">
         Made by{" "}
         <a href="https://github.com/NimeshLathiya/dice_game.git" target="__blank">
-          Nimesh Lathiya
+          
         </a>
       </span>
     </div>
